@@ -66,5 +66,5 @@ Make sure you have installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gsap-macbook-landing.git
+git clone https://github.com/Chiki-tella/3D_Macbook_Apple_Clone.git
 cd gsap-macbook-landing
